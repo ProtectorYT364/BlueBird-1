@@ -1,3 +1,6 @@
+https://github.com/BlueBirdMC/Server
+will upload it after i update to 50
+
 ## Discord
 https://discord.gg/KQCYsxAD2b
 
